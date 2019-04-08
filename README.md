@@ -1,6 +1,6 @@
-# This repo was created for myself control and book reading progress fixing :scream_cat:
+# This repo was created for myself control and book reading progress fixing 📋
 
-## Goal
+## Goal 🎯
 
 I wanna to read the book for 1 week, starting at 8 april 2019(Monday)
 and ending at 14 april 2019(Sunday)
@@ -13,5 +13,7 @@ The book has 9 chapters, every day I will be reading for 1 chapter, and twice a 
 I will ending two chapters.
 
 # Progress
+
+- Chapter 1: Object-oriented design. ✅
 
 Will be updating every day.
