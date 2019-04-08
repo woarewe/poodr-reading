@@ -1,4 +1,4 @@
-# This repo was created for myself control and book reading progress fixing
+# This repo was created for myself control and book reading progress fixing :scream_cat:
 
 ## Goal
 
