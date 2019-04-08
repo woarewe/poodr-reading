@@ -11,6 +11,9 @@ other words and pronounced as a word (e.g., ASCII , NASA ).
 * **I**nterface Segregation
 * **D**ependency Injection
 
+### TODO:
+- Read https://thoughtbot.com/blog/back-to-basics-solid
+
 ## DRY
 
 **D**ont **R**epeat **Y**ourself
