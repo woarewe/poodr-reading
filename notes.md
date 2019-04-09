@@ -29,3 +29,12 @@ other words and pronounced as a word (e.g., ASCII , NASA ).
 ## Big Up Front Design
 
 * Anti-pattern, really sad
+
+# Chapter 2: Design of classes with single responsibility
+
+## "True" code is:
+
+- Transparent(понятный)
+- Reasonable(обоснованный)
+- Usable(практичный)
+- Exemplary(образцовый)
