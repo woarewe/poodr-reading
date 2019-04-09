@@ -14,7 +14,7 @@ I will ending two chapters.
 
 # Progress
 
-- Chapter 1: Object-oriented design. ✅
+- Chapter 1: Object-oriented design ✅
 - Chapter 2: Design of classes with single responsibility ✅
 
 Will be updating every day.
