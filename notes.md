@@ -18,7 +18,7 @@ other words and pronounced as a word (e.g., ASCII , NASA ).
 
 **D**ont **R**epeat **Y**ourself
 
-## Law of Demeter
+## Principle of least knowledge aka Law of Demeter
 
 ## Gang of Four
 
