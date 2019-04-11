@@ -40,3 +40,11 @@ other words and pronounced as a word (e.g., ASCII , NASA ).
 - Exemplary(образцовый)
 
 # Chapter 3: Dependency management
+
+## Dependency direction choice
+
+- We can depend from things which change the least often
+- Some classes change most often
+- Specific classes change more often then abstract classes
+- If you change class with big count of dependencies,
+this will entail widespread consequences.
