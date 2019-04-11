@@ -38,3 +38,5 @@ other words and pronounced as a word (e.g., ASCII , NASA ).
 - Reasonable(обоснованный)
 - Usable(практичный)
 - Exemplary(образцовый)
+
+# Chapter 3: Dependency management
