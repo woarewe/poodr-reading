@@ -48,3 +48,8 @@ other words and pronounced as a word (e.g., ASCII , NASA ).
 - Specific classes change more often then abstract classes
 - If you change class with big count of dependencies,
 this will entail widespread consequences.
+
+## Likelihood of change versus number of dependencies
+![Changes vs dependencies](https://github.com/woarewe/poodr-reading/blob/master/images/changes_and_dependencies.jpg)
+Zones **A**, **B**, **C** are good.
+Zone **D** is danger for your app.
