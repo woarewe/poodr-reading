@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-# Dependency injection example
-# Compare with dependencies_example.rb
 class Wheel
   attr_reader :rim, :tire
 
@@ -15,8 +13,8 @@ class Wheel
   end
 end
 
-# Now class Gear expect object with method diameter
-# This object can be instance of any class
+# External methods calling isolation
+
 class Gear
   attr_reader :chainring, :cog, :wheel
 
@@ -26,8 +24,14 @@ class Gear
     @wheel = wheel
   end
 
+  # We moved diameter calculation in Gear instance method diameter
+  # DRY!
   def gear_inches
-    ratio * wheel.diameter
+    ratio * diameter
+  end
+
+  def diameter
+    wheel.diameter
   end
 
   def ratio

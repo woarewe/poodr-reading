@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# Code example with dependencies
 # This class has 4 unnecessary dependencies
 class Gear
   attr_reader :chainring, :cog, :rim, :tire
