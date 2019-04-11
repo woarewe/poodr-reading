@@ -16,5 +16,6 @@ I will ending two chapters.
 
 - Chapter 1: Object-oriented design ✅
 - Chapter 2: Design of classes with single responsibility ✅
+- Chapter 3: Dependency management ✅
 
 Will be updating every day.
