@@ -2,8 +2,8 @@
 
 ## Goal 🎯
 
-I wanna to read the book for 1 week, starting at 8 april 2019(Monday)
-and ending at 14 april 2019(Sunday)
+I wanna to read the book for 2 week, starting at 8 april 2019(Monday)
+and ending at 21 april 2019(Sunday)
 
 More about book [here](https://www.poodr.com/)
 
@@ -17,5 +17,6 @@ I will ending two chapters.
 - Chapter 1: Object-oriented design ✅
 - Chapter 2: Design of classes with single responsibility ✅
 - Chapter 3: Dependency management ✅
+- Chapter 4: Flexible interfaces creating ✅
 
 Will be updating every day.
