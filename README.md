@@ -18,5 +18,6 @@ I will ending two chapters.
 - Chapter 2: Design of classes with single responsibility ✅
 - Chapter 3: Dependency management ✅
 - Chapter 4: Flexible interfaces creating ✅
+- Chapter 5: Reducing costs with Duck Typing ✅
 
 Will be updating every day.
