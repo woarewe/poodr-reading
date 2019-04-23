@@ -18,3 +18,4 @@ I will ending two chapters.
 - Chapter 3: Dependency management ✅
 - Chapter 4: Flexible interfaces creating ✅
 - Chapter 5: Reducing costs with Duck Typing ✅
+- Chapter 6: Acquiring behaviour through inheritance ✅
