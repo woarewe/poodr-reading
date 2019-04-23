@@ -2,8 +2,7 @@
 
 ## Goal 🎯
 
-I wanna to read the book for 2 week, starting at 8 april 2019(Monday)
-and ending at 21 april 2019(Sunday)
+Life is life. I tried to set for yourself deadlines, but it is wrong concept
 
 More about book [here](https://www.poodr.com/)
 
@@ -19,5 +18,3 @@ I will ending two chapters.
 - Chapter 3: Dependency management ✅
 - Chapter 4: Flexible interfaces creating ✅
 - Chapter 5: Reducing costs with Duck Typing ✅
-
-Will be updating every day.
