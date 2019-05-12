@@ -20,4 +20,4 @@ I will ending two chapters.
 - Chapter 5: Reducing costs with Duck Typing ✅
 - Chapter 6: Acquiring behaviour through inheritance ✅
 - Chapter 7: Sharing Role behavior with Modules ✅
-- Chapter 8: Stopped at page 217
+- Chapter 8: Combining Objects with Composition ✅
