@@ -28,7 +28,7 @@ class Parts
   end
 
   def spares
-    select { |part| part.needs_spare }
+    select(&:needs_spare)
   end
 end
 
@@ -47,7 +47,7 @@ mountain_config = [
 
 module PartsFactory
   def self.build(config, parts_class: Parts)
-    parts_class.new(config.map(&method(:create_part)))
+    parts_class.new(*config.map(&method(:create_part)))
   end
 
   def self.create_part(config)
