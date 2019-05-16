@@ -21,3 +21,4 @@ I will ending two chapters.
 - Chapter 6: Acquiring behaviour through inheritance ✅
 - Chapter 7: Sharing Role behavior with Modules ✅
 - Chapter 8: Combining Objects with Composition ✅
+- Chapter 9: Stopped at page 253
