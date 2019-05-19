@@ -9,7 +9,7 @@ More about book [here](https://www.poodr.com/)
 ## Plan
 
 The book has 9 chapters, every day I will be reading for 1 chapter, and twice a week
-I will ending two chapters.
+I will ending two chapters. 
 
 # Progress
 
@@ -22,3 +22,8 @@ I will ending two chapters.
 - Chapter 7: Sharing Role behavior with Modules ✅
 - Chapter 8: Combining Objects with Composition ✅
 - Chapter 9: Designing Cost-Effective Tests ✅
+
+# Summary
+
+I'm very-very happy because finished this book🎉, poodr is must read book for each Ruby developer.
+I recomend this book very much. 👍
